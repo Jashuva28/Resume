@@ -1,0 +1,29 @@
+*{
+    background-color: purple;
+}
+#summary{
+    background-color: yellow;
+    color: red;
+}
+ul,li,dt,p,pre{
+    background-color: lightgrey;
+}
+#heading{
+    background-color: yellow;
+    color: green;
+}
+strong{
+    color: darkmagenta;
+    background-color: aqua;
+}
+#personal{
+    color: blue;
+    background-color: lightpink;
+}
+hr{
+    color:limegreen;
+}
+a{
+    color:blue;
+    background-color: aquamarine;
+}
